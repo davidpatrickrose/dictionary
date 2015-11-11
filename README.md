@@ -10,6 +10,6 @@ Consequently:
 
 Entries in the dictionary so far:
 
-- [indemnity]();
-- [intellectual property]();
-- [liability]().
+- [indemnity](https://github.com/lawpatch/dictionary/blob/master/indemnity.md);
+- [intellectual property](https://github.com/lawpatch/dictionary/blob/master/intellectual_property.md); and
+- [liability](https://github.com/lawpatch/dictionary/blob/master/liability.md).
