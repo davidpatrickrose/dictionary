@@ -20,7 +20,7 @@ In the contract where Pat buys surfboards from Alice, Henry is a third party, be
 
 The surfboard sale contract might need to mention Henry with something like "Alice agrees to use the third party surf board delivery service provided by Henry".
 
-In the contract where Alice pays Henry to deliver the surfboards to Pat, Pat is the third party, because he's not involved in the delivery contract.
+In the contract where Alice pays Henry to deliver the surfboards to Pat, Pat is the third party, because he's not a party to the delivery contract.
 
 The contract between Alice and Henry could mention Pat by saying "When delivering surfboards, Pat agrees to contact the third party shop owner twenty minutes before arriving." 
 
