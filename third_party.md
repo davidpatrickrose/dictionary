@@ -1,4 +1,4 @@
-# Indemnity
+# Third Party
 
 `noun` Third Party
 
