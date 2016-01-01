@@ -17,4 +17,6 @@ When Pat writes the code for Alice's website, there are legal rights that regula
 
 ### Example 2
 
-[insert example]
+- Pat is a coder. He builds a website called PodeCact. He markets it and grants his customers a right to use the site in order to generate legal documents. 
+ 
+When Pat grants his customers a right to use his site, he grants his customers a right to use his "intellectual property" (i.e. PodeCact). 
