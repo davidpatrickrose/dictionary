@@ -26,7 +26,7 @@ The contract between Alice and Henry could mention Pat by saying "When deliverin
 
 ### Example 2
 
-- Dave owns a website that sells vintage teapots.
+- Dave owns a website that sells vintage teapots and socks.
 - Meegan owns the web hosting service that Dave uses to run his website.
 - Debbie buys a tea pot from Dave's site.
 
